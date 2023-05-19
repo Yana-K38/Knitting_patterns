@@ -2,7 +2,7 @@ import requests
 import os
 from config import authUsername, authPassword
 
-pattern_id = 'bear-with-scarf'  # Replace with the actual pattern ID
+pattern_id = 'bear-with-scarf'
 url = f'https://api.ravelry.com/patterns/{pattern_id}.json'
 
 response = requests.get(url, auth=requests.auth.HTTPBasicAuth(authUsername, authPassword))
