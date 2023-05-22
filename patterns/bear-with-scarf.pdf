@@ -20,7 +20,7 @@
     <link href='../css/styles-june.css' rel='stylesheet' type='text/css'>
     <link href='../css/dhg-june.css' rel='stylesheet' type='text/css'>
     <link href='../css/styles2019.css' rel='stylesheet' type='text/css'>
-    <link href='../css/dhg-blog.css?t=1684514718' rel='stylesheet' type='text/css'>
+    <link href='../css/dhg-blog.css?t=1684773012' rel='stylesheet' type='text/css'>
     <link href='../css/popover.css' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="../css/smoothproducts.css">
 
@@ -619,7 +619,7 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.cr
                                                                                                 <option value="50" > Congo, the Democratic Republic of the </option>
                                                                                                 <option value="113" > Korea, Democratic People\'s Republic of </option>
                                                                                                 <option value="114" > Korea, Republic of </option>
-                                                                                                <option value="53" > Cote d\\\'Ivoire </option>
+                                                                                                <option value="53" > Cote d'Ivoire </option>
                                                                                                 <option value="52" > Costa Rica </option>
                                                                                                 <option value="55" > Cuba </option>
                                                                                                 <option value="60" > Dominica </option>
@@ -1069,7 +1069,7 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.cr
             </div>
 
             <div class="mb50 col-xs-12 col-sm-12 col-md-12 text-center">
-                <img src="area/news/img000082A.jpg?4500" class="image-responsive">            </div>
+                <img src="area/news/img000082A.jpg?1762" class="image-responsive">            </div>
             <div class="mb50 col-xs-12 text-left">
                 <article class="blog-item">
                     <div class="blog-header d-flex">
@@ -1359,19 +1359,19 @@ $xxArt = $xxCampi[0];
             <h2 class="text-center">RELATED POST</h2>
             <div class="row mx-n2">
                 <div class="item col-xs-12 col-sm-4 px-2 pt-4">
-                    <a href="article-halloween-tutorial-crochet-pop-pumpkins_35.php" ><img src="area/timthumb.php?src=area/news/img000035A.jpg&amp;h=600&amp;w=600&amp;zc=1?1919" class="image-responsive"></a>                    <div class="p-sm-3"><h3 class="font-bold text-uppercase mt-4">Crochet:</h3>
+                    <a href="article-halloween-tutorial-crochet-pop-pumpkins_35.php" ><img src="area/timthumb.php?src=area/news/img000035A.jpg&amp;h=600&amp;w=600&amp;zc=1?9553" class="image-responsive"></a>                    <div class="p-sm-3"><h3 class="font-bold text-uppercase mt-4">Crochet:</h3>
                         <h4 class="font-light">Halloween tutorial: crochet Pop Pumpkins</h4>
                         <div class="text-right"><a href="article-halloween-tutorial-crochet-pop-pumpkins_35.php" class="btn btn-primary btn-blog">read Now</a></div>
                     </div>
                 </div>
                 <div class="item col-xs-12 col-sm-4 px-2 pt-4">
-                    <a href="article-feather-yarn-and-crochet-for-a-hippie-chic-style_236.php" ><img src="area/timthumb.php?src=area/news/img000236A.jpg&amp;h=600&amp;w=600&amp;zc=1?3428" class="image-responsive"></a>                    <div class="p-sm-3"><h3 class="font-bold text-uppercase mt-4">Crochet:</h3>
+                    <a href="article-feather-yarn-and-crochet-for-a-hippie-chic-style_236.php" ><img src="area/timthumb.php?src=area/news/img000236A.jpg&amp;h=600&amp;w=600&amp;zc=1?3418" class="image-responsive"></a>                    <div class="p-sm-3"><h3 class="font-bold text-uppercase mt-4">Crochet:</h3>
                         <h4 class="font-light">Plume Yarn and crochet for a Hippie Chic style</h4>
                         <div class="text-right"><a href="article-feather-yarn-and-crochet-for-a-hippie-chic-style_236.php" class="btn btn-primary btn-blog">read Now</a></div>
                     </div>
                 </div>
                 <div class="item col-xs-12 col-sm-4 px-2 pt-4">
-                    <a href="article-amigurumi-made-in-prato-ohioja-we-wish-we-could-live-in-your-world_250.php" ><img src="area/timthumb.php?src=area/news/img000250A.jpg&amp;h=600&amp;w=600&amp;zc=1?7446" class="image-responsive"></a>                    <div class="p-sm-3"><h3 class="font-bold text-uppercase mt-4">Crochet:</h3>
+                    <a href="article-amigurumi-made-in-prato-ohioja-we-wish-we-could-live-in-your-world_250.php" ><img src="area/timthumb.php?src=area/news/img000250A.jpg&amp;h=600&amp;w=600&amp;zc=1?8565" class="image-responsive"></a>                    <div class="p-sm-3"><h3 class="font-bold text-uppercase mt-4">Crochet:</h3>
                         <h4 class="font-light">Amigurumi made in Prato: Ohioja we wish we could live in your world</h4>
                         <div class="text-right"><a href="article-amigurumi-made-in-prato-ohioja-we-wish-we-could-live-in-your-world_250.php" class="btn btn-primary btn-blog">read Now</a></div>
                     </div>
